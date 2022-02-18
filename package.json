@@ -1,0 +1,20 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "friday.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BOT",
+    "FRIDAY",
+    "JS"
+  ],
+  "author": "@judicael_andria",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "twitter": "^1.7.1"
+  }
+}
